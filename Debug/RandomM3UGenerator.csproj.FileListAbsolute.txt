@@ -1,0 +1,10 @@
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\bin\Debug\RandomM3UGenerator.exe.config
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\bin\Debug\RandomM3UGenerator.exe
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\bin\Debug\RandomM3UGenerator.pdb
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\obj\Debug\RandomM3UGenerator.csprojResolveAssemblyReference.cache
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\obj\Debug\RandomM3UGenerator.Form1.resources
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\obj\Debug\RandomM3UGenerator.Properties.Resources.resources
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\obj\Debug\RandomM3UGenerator.csproj.GenerateResource.Cache
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\obj\Debug\RandomM3UGenerator.csproj.CoreCompileInputs.cache
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\obj\Debug\RandomM3UGenerator.exe
+C:\Users\chunlinh\source\repos\RandomM3UGenerator\RandomM3UGenerator\obj\Debug\RandomM3UGenerator.pdb
